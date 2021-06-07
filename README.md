@@ -4,4 +4,4 @@ A named-entity model using PhoBERT to recognize 17 BIO entities including: perso
 If you can't view ipynb file in GitHub, using https://nbviewer.jupyter.org/ instead.
 
 # Scoring 93% accuracy in testing dataset
-![](images/NER score.png)
+![](images/NER_score.png)
